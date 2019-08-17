@@ -81,7 +81,6 @@ p {
 
 .stages-icons {
     color: #0e332a;
-    padding: 1rem;
 }
 
 .stages-icons:hover {
@@ -93,9 +92,10 @@ p {
     color: #fff;
     background-color: #0e332a;
     padding: 5% 10%;
-    background-image: url("/images/puzzle.svg");
+    background-image: url("./images/puzzle.svg");
     background-repeat: no-repeat;
-    background-position: 10% 10%;
+    background-size: auto;
+    background-position: center;
 }
 
 .hiw-heading {
@@ -106,11 +106,10 @@ p {
 
 .carousel-item {
     padding: 7% 15%;
-
 }
 
 .hiw-icons {
-    padding: 3%;
+    padding: 3% 3%;
     color: #ffffff;
 }
 
