@@ -92,7 +92,7 @@ p {
     color: #fff;
     background-color: #0e332a;
     padding: 5% 10%;
-    background-image: url(".../images/puzzle.svg");
+    background-image: url("//images/puzzle.svg");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
