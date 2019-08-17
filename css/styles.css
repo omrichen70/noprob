@@ -1,0 +1,169 @@
+body {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+}
+
+h3 {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 1.5rem;
+
+
+}
+
+p {
+    color: #2c3029;
+}
+
+#top-container {
+    background-color: #207561;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/* NavBar */
+.navbar-brand {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: 1.1rem;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+}
+
+.np-logo {
+    width: 10%;
+}
+
+/* Title */
+.title-heading {
+    font-size: 3rem;
+    color: #fff;
+    font-family: 'Bungee', cursive;
+    padding-top: 15%;
+}
+
+.btn-download {
+    font-family: 'Maven Pro', sans-serif;
+    margin: 5% 7px 5% 0;
+}
+
+.status-img {
+    width: 70%;
+}
+
+/* Stages  */
+#stages {
+    /* background-color: rgb(45, 224, 90); */
+}
+
+.stages-box {
+    padding: 2rem;
+    color: #0e332a;
+
+}
+
+.stages-icons {
+    color: #0e332a;
+    padding: 1rem;
+}
+
+.stages-icons:hover {
+    color: #207561;
+}
+
+/* How It Works Section  */
+#howitworks-section {
+    color: #fff;
+    background-color: #0e332a;
+    padding: 5% 10%;
+    background-image: url("/images/puzzle.svg");
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+}
+
+.hiw-heading {
+    font-size: 3rem;
+    font-family: 'Bungee', cursive;
+    font-weight: 700;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+
+}
+
+.hiw-icons {
+    padding: 3%;
+    color: #ffffff;
+}
+
+.hiw-text {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 400;
+}
+
+
+/* Download Section */
+#download-section {
+    padding: 3% 15%;
+    background-color: #207561;
+}
+
+.iphone-img {
+    width: 53%;
+    transform: rotate(-20deg);
+    padding-top: 115px;
+    padding-bottom: 50px;
+}
+
+/* Footer Section  */
+#footer {
+    background-color: #589167;
+    padding: 3% 15%;
+}
+
+.footer-logo {
+    width: 20%;
+}
+
+.navbar-logo {
+    color: #fff;
+}
+
+.navbar-logo:hover {
+    color: #fff;
+}
+
+.net-icons {
+    color: white;
+
+}
+
+.list-inline-item {
+    padding: 3%;
+}
+
+.list-inline-item:hover {
+    color: #0e332a;
+}
+
+.p-copy {
+    color: #fff;
+}
